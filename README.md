@@ -1,5 +1,4 @@
-Teste de Carga Web
-Este é um simples testador de carga web escrito em Go, que permite realizar testes de carga em um serviço web específico.
+Um simples testador de carga web escrito em Go, que permite realizar testes de carga em um serviço web específico.
 
 Como Usar
 Pré-requisitos
